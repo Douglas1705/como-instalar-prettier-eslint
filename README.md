@@ -124,6 +124,23 @@ Instale as seguintes extensões no Visual Studio Code, pesquisando por seus IDs:
 `rvest.vs-code-prettier-eslint`
 ```
 
+<br>
+
+### Comando usado para formatar seu código de acordo com as regras definidas pelo Prettier
+
+```bash
+npm run format
+````
+
+<br>
+
+### Este comando é usado para verificar seu código em busca de erros e problemas de estilo usando o ESLint
+
+```bash
+npm run lint
+```
+
+
 
 
 
